@@ -6,13 +6,13 @@ In this repository the `ETL_create_database.ipynb` file contains the final work 
 
 This image shows the results of a query to count the rows of the movies table in pgAdmin:
 
-![movies query results]("/Resources/movies_query.png")
+![movies query results](/Resources/movies_query.png)
 
 Creating the same query on the ratings table generated an error that I have not yet figure out how to resolve:
 
-![ratings query results]("/Resources/ratings_query_1.png")
+![ratings query results](/Resources/ratings_query_1.png)
 
 However, using this screen I am able to show that all data was successfully inserted into the table:
 
-![tuples inserted]("Resources/ratings_query_2.png")
+![tuples inserted](Resources/ratings_query_2.png)
 
